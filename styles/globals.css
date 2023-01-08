@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    overflow-x: hidden;
+}
+.text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
